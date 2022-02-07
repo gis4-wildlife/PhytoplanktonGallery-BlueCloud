@@ -11,17 +11,17 @@ If the web-app is broken please notify it so I can fix it and make it available 
 Find a video tutorial about how to use the demo: ["Wildlife Tracker for Oceans demo tutorial"](https://www.youtube.com/watch?v=IYN5dCJg6os)
 
 
-### 1. Demo: Marine Wildlife Movements and Marine Protected Areas (MPAs)[3]
+### 1) Demo: Marine Wildlife Movements and Marine Protected Areas (MPAs)[3]
 Access the webmap in the next link: [**Great Whales summer migration movements**](https://gis4-wildlife.github.io/phytoplankton-blue-cloud-gallery/root/1_whale_movements_and_marine_areas.html)
 
 ![movements](gif/whale_movement.gif)
 
-### 2. Product 1: Monthly changes during 2018 of Phytoplankton concentration
+### 2) Product 1: Monthly changes during 2018 of Phytoplankton concentration
 Access the webmap in the next link: [**Yearly phytoplankton concentration**](https://gis4-wildlife.github.io/phytoplankton-blue-cloud-gallery/root/2_whale_trajectories_and_yearly_chla.html)
 
 ![movements](gif/yearly_phytoplankton.gif)
 
-### 3. Product 2: Hotspots of Phytoplankton concentration overlapped with Great Whales summer migration
+### 3) Product 2: Hotspots of Phytoplankton concentration overlapped with Great Whales summer migration
 Access the January webmap in the next link: [**January phytoplankton hotspots**](https://gis4-wildlife.github.io/phytoplankton-blue-cloud-gallery/root/index_January_hotspot.html)
 
 ![movements](gif/january_hotspot.gif)
@@ -44,12 +44,12 @@ Access the June webmap in the next link: [**June phytoplankton hotspots**](https
 - [Phytoplankton hotspots on November](https://gis4-wildlife.github.io/phytoplankton-blue-cloud-gallery/root/index_November_hotspot.html)
 - [Phytoplankton hotspots on December](https://gis4-wildlife.github.io/phytoplankton-blue-cloud-gallery/root/index_December_hotspot.html)
 
-### 4. Bonus. Data gaps and whale movements
+### 4) Bonus. Data gaps and whale movements
 Access the Data gaps webmap in the next link: [**Data gaps and whale movements**](https://gis4-wildlife.github.io/phytoplankton-blue-cloud-gallery/root/3_whale_trajectories_and_data_gaps.html)
 
 ![movements](gif/data_gaps.gif)
 
-### References
+### 5) References
 - [1] [Silva et al (2014). North Atlantic blue and fin whales suspend their spring migration to forage in middle latitudes: building up energy reserves for the journey](https://www.movebank.org/cms/webapp?gwt_fragment=page=studies,path=study72289508)
 - [2] [Sauzede et al (2015). Phytoplankton data products from Blue Cloud](https://www.blue-cloud.org/demonstrators/zoo-and-phytoplankton-eov-products)
 - [3] [UNEP-WCMC and IUCN (2022), Protected Planet: The World Database on Protected Areas (WDPA) and World Database on Other Effective Area-based Conservation Measures](https://www.protectedplanet.net/en/thematic-areas/wdpa?tab=WDPA)
