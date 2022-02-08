@@ -10,6 +10,7 @@ In this gallery, it is good to enphasise that Blue Cloud provided a relevant dat
 
 - Find a video tutorial about how to use the demo: ["Wildlife Tracker for Oceans demo tutorial"](https://www.youtube.com/watch?v=IYN5dCJg6os)
 
+- Check the code in this notebook and create maps like this by yourself: [Notebook for Phytoplankton hotspots](https://github.com/gis4-wildlife/PhytoplanktonNotebook-BlueCloud)
 
 ### 1) Demo: Marine Wildlife Movements and Marine Protected Areas (MPAs)[3]
 Access the webmap in the next link: [**Great Whales summer migration movements**](https://gis4-wildlife.github.io/PhytoplanktonGallery-BlueCloud/root/1_whale_movements_and_marine_areas.html)
