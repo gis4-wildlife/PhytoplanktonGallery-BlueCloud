@@ -4,13 +4,12 @@ This map gallery shows the products obtained with the *"Wildlife Tracker for Oce
 
 In this gallery, it is good to enphasise that Blue Cloud provided a relevant data product: **Global ocean 3D Phytoplankton product of Chlorophyll-a concentration as proxy of Phytoplankton biomass[2]** and it is represented as hotspot (>80% percentile) by each month. 
 
-- The geo-framework is under development and can be accessed in the next link: ["Wildlife Tracker for Ocean V0.2-BC"](https://share.streamlit.io/gis4-wildlife/wildlife-tracker-oceans-v0.2pro/main/gis4-oceans.py)
-
-- If the web-app is broken please notify it so I can fix it and make it available for you. Contact: bryanvallejo16@gmail.com 
-
-- Find a video tutorial about how to use the demo: ["Wildlife Tracker for Oceans demo tutorial"](https://www.youtube.com/watch?v=IYN5dCJg6os)
+- Find a video about how the framework worked: ["Wildlife Tracker for Oceans demo tutorial"](https://www.youtube.com/watch?v=IYN5dCJg6os)
 
 - Check the code in this notebook and create maps like this by yourself: [Notebook for Phytoplankton hotspots](https://github.com/gis4-wildlife/PhytoplanktonNotebook-BlueCloud)
+
+- If you have questions get in touch. Contact: bryanvallejo16@gmail.com 
+
 
 ### 1) Demo: Marine Wildlife Movements and Marine Protected Areas (MPAs)[3]
 Access the webmap in the next link: [**Great Whales summer migration movements**](https://gis4-wildlife.github.io/PhytoplanktonGallery-BlueCloud/root/1_whale_movements_and_marine_areas.html)
